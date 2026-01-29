@@ -11,7 +11,7 @@ This project aims to **classify X-ray bone images** into:
 We built and trained a **CNN model using PyTorch**, then deployed an interactive demo using **Streamlit**.
 
 ## Live Demo (Streamlit)
-- [Fracture & Non-Fracture App](https://fractureandnonfractureapp-ay5f2krrw4xcyefeorwaft.streamlit.app/)
+- [Fracture & Non-Fracture App]([https://fractureandnonfractureapp-ay5f2krrw4xcyefeorwaft.streamlit.app/](https://fracture-non-fracture-classification-99yq3bb6hbzw6bclshmzah.streamlit.app/))
 
 ## Team Members
 - Mohammed Al-Amoudi  
